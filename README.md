@@ -29,9 +29,9 @@ The analysis helps stakeholders monitor loan performance, identify risks, and op
   - Create the `loans` table.
   - Insert/load your loan dataset.
   - Run analytical queries.
-  ### **2. Open the Power BI Template**
-- Open `loan_analysis_dasboards.pbit` in Power BI Desktop.
-- Connect to your database.
-- Refresh the visuals.
+### **2. Open the Power BI Template**
+ - Open `loan_analysis_dasboards.pbit` in Power BI Desktop.
+ - Connect to your database.
+ - Refresh the visuals.
 ## Author
 Md Abdul Aziz Faizan Email:mohdfaizan9493@gmail.com
